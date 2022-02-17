@@ -12,7 +12,7 @@
 ## Overview
 
 ### Screenshot
-    ![Screenshot](./images/QR-screenshot.png)
+    ![Screenshot](images/QR-screenshot.png)
 
 - Live Site URL: []
 
